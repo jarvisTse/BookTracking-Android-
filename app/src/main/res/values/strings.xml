@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">BookTracking</string>
+
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="re_password">Password Confirmation</string>
+    <string name="not_register">No account yet? Create one</string>
+    <string name="already_register">Already register? Login</string>
+    <string name="intro">RFID Based Book Tracking System</string>
+
+    <string name="track">Track</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="record">Record</string>
+    <string name="user">User</string>
+    <string name="account">Account</string>
+
+    <string name="search_hint">Search for books</string>
+
+    <string name="author">Author: </string>
+    <string name="type">Type: </string>
+    <string name="publisher">Publisher: </string>
+    <string name="publicationYear">Publication Year: </string>
+    <string name="language">Language: </string>
+    <string name="isbn">ISBN: </string>
+    <string name="pageNumber">Total Page: </string>
+    <string name="status">Status: </string>
+    <string name="description">Description: </string>
+
+    <string name="filter_by">Filter By:</string>
+    <string name="sort_by">Sort By:</string>
+
+    <string name="myAccount">My Account</string>
+    <string name="logout">Logout</string>
+    <string name="role">Role</string>
+
+    <string name="borrow_record">Borrow Book Record</string>
+    <string name="handle_record">Handled Record</string>
+    <string name="borrow_at">Borrow At: </string>
+    <string name="deadline_at">Deadline At: </string>
+    <string name="return_at">Return At: </string>
+    <string name="renewal_num">Renewal Count: </string>>
+
+
+
+</resources>
